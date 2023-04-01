@@ -3,7 +3,7 @@ home: true
 icon: home
 title: 阿超的AI之旅
 heroImage: /logo.svg
-heroText: Project name
+heroText: AI之旅
 tagline: You can place the description of the project here.
 actions:
   - text: How to Use 💡
